@@ -105,7 +105,7 @@ per capita incomes in the country while the resident number there is basically s
    incomes. They are losing residents to cheaper places, not
    to more productive ones.
 
-3. **Income growth is not driven by population.** The two
+2. **Income growth is not driven by population.** The two
    variables are nearly uncorrelated across states and over
    time. What actually drives income growth — industry mix,
    education levels, productivity — is a separate question.
