@@ -71,28 +71,29 @@ blog4/
 
 ## Key Findings
 
-1. **Migration cannot be considered as a weatherwane for income per capita**
-   Nevada, Georgia, and Delaware all grew quickly but had some
-   of the slowest income growth in the country. Meanwhile, Illinois and New York have high and rising per capita
-   incomes. They are losing residents to cheaper places, not
-   to more productive ones.
+1. **Population growth is not a reliable indicator of income growth.**
+   Nevada and Utah both grew quickly, but their income growth was
+   very different. Meanwhile, Illinois's population remained flat
+   while its per capita income grew steadily.
 
-2. **Income growth is not driven by population.** The two
-   variables are nearly uncorrelated across states and over
-   time. What actually drives income growth — industry mix,
-   education levels, productivity — is a separate question.
+2. **Income growth is not driven by the net change in population.** The two
+   variables are weak-correlated. Meanwhile, the locals who were leaving and the foreigners who were coming in were completely different in incomes, skills and consumption behaviors. In this case, income would be affected by other factors inside the varying population rather than absolute change in population.
 
 ## Methodology Notes
 
 - **Per capita, not total.** Total income is dominated by
   state size; per capita measures the average person's income.
 - **Growth rates.** Computed as `(value_2025 / value_2000 - 1) × 100`.
-- **No cost-of-living adjustment.** A dollar in Mississippi
+- **No inflation or cost-of-living adjustment.** The inflation effect has been added into income per capita data while a dollar in Mississippi
   buys more than a dollar in California, but this analysis
   treats them as equal. This is a known limitation.
 - **Annual frequency.** FRED provides annual state-level
   estimates between decennial censuses.
-
+- **Population is not migration.**  Population growth combines
+  natural increase (births minus deaths) and net migration.
+  This analysis cannot separate the two, so the results speak
+  to population change broadly, not migration specifically.
+  
 ## Data Attribution
 
 All data comes from FRED:
